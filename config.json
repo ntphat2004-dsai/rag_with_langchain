@@ -1,0 +1,8 @@
+{
+    "data_path": "data",
+    "vector_store_path": "vector_store",
+    "embedding_model_name": "sentence-transformers/all-MiniLM-L6-v2",
+    "llm_name": "gemini-2.0-flash",
+    "chunk_size": 512,
+    "chunk_overlap": 50
+}

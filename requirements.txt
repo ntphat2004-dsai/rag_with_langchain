@@ -1,0 +1,11 @@
+numpy==1.26.4
+torch==2.6.0
+transformers>=4.40.0
+sentence-transformers
+langchain
+langchain-huggingface
+langchain-community
+langchain-chroma
+streamlit
+
+
